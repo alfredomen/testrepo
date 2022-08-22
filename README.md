@@ -1,2 +1,7 @@
 # testrepo
-This is just a test repo
+
+Thies is just a test repo
+
+## Editing the file
+
+Its a markdown file in this repository
